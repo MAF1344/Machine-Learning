@@ -1,0 +1,9 @@
+# Abaikan file dokumen
+*.doc
+*.docx
+*.ppt
+*.pptx
+*.pdf
+*.xls
+*.xlsx
+*.txt
